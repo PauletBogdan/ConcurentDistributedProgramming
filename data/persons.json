@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "firstName": "Costel",
+    "lastName": "Costantin",
+    "phoneNumber": "123456",
+    "emailAddress": "costel.constantin@examplemail.com"
+  },
+  {
+    "id": "2",
+    "firstName": "Dumitru",
+    "lastName": "Dumitrescu",
+    "phoneNumber": "123456",
+    "emailAddress": "dumitrudumitrescu@examplemail.com"
+  },
+  {
+    "id": "3",
+    "firstName": "Rares",
+    "lastName": "Rarescu",
+    "phoneNumber": "33333333",
+    "emailAddress": "raresrarescu@examplemail.com"
+  },
+  {
+    "id": "4",
+    "firstName": "Ghorghe",
+    "lastName": "Gheorghiu",
+    "phoneNumber": "222222222",
+    "emailAddress": "gheorghegheorghiu@examplemail.com"
+  },
+  {
+    "id": "5",
+    "firstName": "Bogdan",
+    "lastName": "Bogdanescu",
+    "phoneNumber": "111111111",
+    "emailAddress": "bogdanbogdanescu@examplemail.com"
+  },
+  {
+    "id": "6",
+    "firstName": "Random test 1",
+    "lastName": "Random test 1 lastName",
+    "phoneNumber": "Random phoneNumber 1",
+    "emailAddress": "Random emailAddress 1"
+  }
+]
