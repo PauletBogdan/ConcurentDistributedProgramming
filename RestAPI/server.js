@@ -1,5 +1,4 @@
 const http = require('http')
-const requestData = require('./data/persons')
 const { getPersons, getPerson, createPerson, updatePerson, deletePerson } = require('./controllers/personController')
 
 const myserver = http.createServer((req, res) => {

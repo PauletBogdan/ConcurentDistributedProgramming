@@ -1,8 +1,8 @@
 {
-  "name": "concurent-programming",
+  "name": "person-rest-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"

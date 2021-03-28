@@ -40,7 +40,7 @@ function updatePerson(id, person) {
     })
 }
 
-function removePerson(id, person) {
+function removePerson(id) {
 
     return new Promise((resolve, reject) => {
 
