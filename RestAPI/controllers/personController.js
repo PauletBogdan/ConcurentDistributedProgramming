@@ -113,7 +113,7 @@ async function deletePerson(req, res, id) {
         } else {
             await Person.removePerson(id)
             res.writeHead(200, { 'Content-Type': 'application/json' })
-            res.write(JSON.stringify({message: `Product ${id} removed`}))
+            res.write(JSON.stringify({message: `Person ${id} removed`}))
             res.end()
         }
 

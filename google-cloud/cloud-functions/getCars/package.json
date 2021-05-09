@@ -1,0 +1,14 @@
+{
+  "name": "get-cars",
+  "description": "google-cloud-project getCars cloud function",
+  "version": "1.0.0",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": "Paulet Bogdan Claudiu",
+  "engines": {
+    "node": ">= 12.20.0"
+  },
+  "dependencies": {
+    "@google-cloud/datastore": "^6.4.0"
+  }
+}
